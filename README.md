@@ -1,2 +1,2 @@
-# React
+# Intor-to-JSX
 Created with CodeSandbox
